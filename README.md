@@ -24,7 +24,7 @@
   
   *Output:*
 
-  <img src=""C:\Users\rajad\Documents\sql\create and use database and tables.png"">
+  <img src="create and use database and tables.png">
 
 ---
 
@@ -34,7 +34,7 @@
   
   *Output:*
   
-  <img src="output_images/3_drop_table.png">
+  <img src="drop table.png">
 
 ---
   
@@ -59,7 +59,7 @@ VALUES
   
   *Output:*
   
-  <img src="output_images/4_insert.png">
+  <img src="insert into table.png">
 
 ---
 
@@ -69,7 +69,7 @@ VALUES
   
   *Output:*
   
-  <img src="output_images/5_Select.png">
+  <img src="select query.png">
 
 ---
 
@@ -81,7 +81,7 @@ WHERE patient_id = '3';`
   
   *Output:*
   
-  <img src="output_images/6_UPDATE.png">
+  <img src="update and where query.png">
 
 ---
 
@@ -92,7 +92,7 @@ RENAME COLUMN address TO home_address;`
   
   *Output:*
   
-  <img src="output_images/7_alter.png">
+  <img src="alter table query.png">
 
 ---
 
@@ -103,7 +103,7 @@ ORDER BY discharge_date DESC;`
   
   *Output:*
   
-  <img src="output_images/8_order_by.png">
+  <img src="order by query.png">
 
 ---
 
@@ -115,7 +115,7 @@ INNER JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
   
   *Output:*
   
-  <img src="output_images/9_inner_join.png">
+  <img src="inner join.png">
 ---
 
 - **Left Join Query**
@@ -126,7 +126,7 @@ LEFT JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
   
   *Output:*
   
-  <img src="output_images/10_left_join.png">
+  <img src="left join.png">
 
 ---
 
@@ -138,7 +138,7 @@ RIGHT JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
 
   *Output:*
   
-  <img src="output_images/11_right_join.png">
+  <img src="right join.png">
 
 ---
 
@@ -155,7 +155,7 @@ RIGHT JOIN Appointment ON Patient.patient_id = Appointment.patient_id;`
   
   *Output:*
   
-  <img src="output_images/12_full_outer.png">
+  <img src="outer join.png">
   **Distinct Query**
 
  ` SELECT DISTINCT subject_`
